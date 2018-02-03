@@ -12,7 +12,5 @@ This repository contains the R code of proposed anomalous appliance identifcatio
 ![](1_annotate.png)
 5. Input two mentioned files 1) A csv file containing power readings and, 2) Another csv file containing weather data
 
-
-
-#Contact
+##Contact
 Please email to haroonr@iiitd.ac.in for issues

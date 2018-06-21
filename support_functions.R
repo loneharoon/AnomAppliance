@@ -1,5 +1,5 @@
 #REPLICA OF FILE CCD_supportcode2017.R
-
+# I.e., I have
 
 compute_predictionband <- function(datas2_copy,predvalue,predictionband){
   # used to compute prediction band for neural networks setup

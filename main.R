@@ -1,5 +1,5 @@
 # MAIN FILE
-# if any function is found missing please mail to the the main author of paper at: haroonr@iiitd.ac.in
+# if any function is found missing please mail to the the main author of paper at: 
 # THIS FILE CONTAINS THREE FUNCTION CORRESPONDING TO THREE STEPS OF THE PAPER
 library(xts)
 library(data.table)

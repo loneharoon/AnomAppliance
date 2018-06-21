@@ -1,4 +1,3 @@
-# KDD DEMO APPLICATION
 library(shiny)
 library(plotly)
 rm(list = ls())

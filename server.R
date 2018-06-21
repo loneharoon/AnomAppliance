@@ -1,4 +1,3 @@
-# KDD DEMO APPLICATION
 library(shiny)
 library(data.table)
 library(fasttime) #for fastPosixct
@@ -11,7 +10,7 @@ suppressWarnings(library(plotly))
 library(cluster)
 options(shiny.maxRequestSize=100*1024^2)
 rm(list=ls())
-Sys.setenv(TZ="Asia/Kolkata")
+#Sys.setenv(TZ="Asia/Kolkata")
 source("./Support_functions.R")
 shinyServer(
 
